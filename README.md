@@ -1,0 +1,2 @@
+# Securestock
+Proyecto de integradora
